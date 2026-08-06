@@ -1,5 +1,4 @@
 # Cadence-Virtuoso-Designs
-# Cadence Virtuoso Designs
 
 <p align="center">
   <b>CMOS Digital Circuit Design using Cadence Virtuoso</b><br>
