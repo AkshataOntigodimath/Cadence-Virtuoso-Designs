@@ -42,7 +42,7 @@ Inverter| ✅ Completed
 
 The inverter, NAND, NOR, 2-to-4 decoder, and 3-to-8 decoder have been simulated and functionally verified in the lab using Cadence Virtuoso.
 
-📸 Output screenshots and simulation waveforms for all designs will be uploaded together after the 5-to-32 decoder is completed and verified.
+📸 Output screenshots and simulation waveforms will be uploaded together after the 5-to-32 decoder is completed and verified.
 
 📚 Learning Outcomes
 
