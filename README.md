@@ -1,36 +1,52 @@
 🔬 Mixed-Logic Decoder Design Using Cadence Virtuoso
 
-A VLSI design project focused on implementing and verifying digital logic gates and decoder circuits using Cadence Virtuoso.
+A VLSI Design Project | Digital Electronics | Cadence Virtuoso
 
-📌 Overview
+---
 
-This project includes basic logic gates and decoder architectures, with individual design and test folders for circuit simulation and functional verification.
+📌 About the Project
 
-🛠️ Tools Used
+This project focuses on designing and verifying digital logic gates and decoder circuits using Cadence Virtuoso.
 
-- 💻 EDA Tool: Cadence Virtuoso
-- ⚡ Domain: VLSI Design
-- 🔌 Design Type: Digital Logic and Combinational Circuits
+The project includes basic logic gates and decoder architectures, with separate folders for designs and testbenches.
+
+🛠️ Tools & Technologies
+
+- EDA Tool: Cadence Virtuoso
+- Domain: VLSI Design
+- Circuit Type: Combinational Logic
+- Verification: Circuit Simulation
+
+---
 
 📂 Project Structure
 
 mixedlogic_decoder/
+│
 ├── inv/
 ├── inv_test/
+│
 ├── nand2/
 ├── nand2_test/
+│
 ├── nor/
 ├── nor_test/
+│
 ├── decoder2to4/
 ├── decoder2to4_test/
+│
 ├── decoder3to8/
 ├── decoder3to8_test/
+│
 ├── decoder5to32/
+│
 └── README.md
 
-📊 Design Status
+---
 
-Circuit| Status
+📊 Design Progress
+
+Design| Current Status
 Inverter| ✅ Completed
 2-Input NAND Gate| ✅ Completed
 2-Input NOR Gate| ✅ Completed
@@ -38,29 +54,38 @@ Inverter| ✅ Completed
 3-to-8 Decoder| ✅ Completed
 5-to-32 Decoder| 🚧 In Progress
 
-🧪 Verification
+---
 
-The inverter, NAND, NOR, 2-to-4 decoder, and 3-to-8 decoder have been simulated and functionally verified in the lab using Cadence Virtuoso.
+🧪 Simulation & Verification
+
+The inverter, NAND, NOR, 2-to-4 decoder, and 3-to-8 decoder have been simulated and functionally verified in the lab.
 
 📸 Output screenshots and simulation waveforms will be uploaded together after the 5-to-32 decoder is completed and verified.
 
-📚 Learning Outcomes
+---
 
-- 💡 Digital circuit design using Cadence Virtuoso.
-- 🔄 Understanding combinational logic and decoder architectures.
-- 🧩 Schematic development and simulation-based verification.
-- 🎯 Practical exposure to VLSI design workflows.
+🎯 Key Learning Outcomes
+
+- 💡 Digital logic circuit design
+- 🔄 Decoder architecture and combinational logic
+- 🧩 Schematic design using Cadence Virtuoso
+- 🧪 Simulation-based functional verification
+- ⚡ Practical exposure to VLSI design workflows
+
+---
 
 🚀 Future Work
 
 - Complete and verify the 5-to-32 decoder.
-- Upload simulation screenshots and output waveforms.
+- Upload output screenshots and simulation waveforms.
 - Document performance results where available.
+
+---
 
 👩‍💻 Author
 
 Akshata Ontigodimath
 
-🎓 Electronics and Communication Engineering
+Electronics and Communication Engineering
 
-✨ Exploring digital circuit design and VLSI implementation.
+Exploring VLSI design, digital electronics, and circuit implementation.
